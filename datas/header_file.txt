@@ -1,0 +1,1 @@
+Field<string>	Field<uint32>	Field<int>	ArrayField<string>	Field<DIYStruct>

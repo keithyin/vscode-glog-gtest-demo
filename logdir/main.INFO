@@ -1,0 +1,6 @@
+Log file created at: 2020/05/26 12:00:47
+Running on machine: keithyin.local
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E20200526 12:00:47.818404 338914752 field.h:28] stoi: no conversion
+E20200526 12:00:47.819733 338914752 field.h:199] parse error:100,fadsf
+E20200526 12:00:47.819761 338914752 field.h:199] parse error:yinpeng	18	180	3:math,cs,physis	100,fadsf
