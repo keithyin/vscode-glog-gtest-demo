@@ -5,7 +5,7 @@
 然后按照 cmakelist 写就好了
 
 ## GLOG 的 flag
-(http://www.yeolar.com/note/2014/12/20/glog/)[http://www.yeolar.com/note/2014/12/20/glog/]
+[http://www.yeolar.com/note/2014/12/20/glog/](http://www.yeolar.com/note/2014/12/20/glog/)
 常用flag有
 * logtostderr （ bool ，默认为 false ） 日志输出到stderr，不输出到日志文件。
 * colorlogtostderr （ bool ，默认为 false ） 输出彩色日志到stderr。
